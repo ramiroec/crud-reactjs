@@ -59,12 +59,12 @@ function ProjectList() {
     return (
         <Layout>
            <div className="container">
-            <h2 className="text-center mt-5 mb-3">Project Manager</h2>
+            <h2 className="text-center mt-5 mb-3">Manejador de Proyectos</h2>
                 <div className="card">
                     <div className="card-header">
                         <Link 
                             className="btn btn-outline-primary"
-                            to="/create">Create New Project cambiado
+                            to="/create">Nuevo Proyecto
                         </Link>
                     </div>
                     <div className="card-body">
