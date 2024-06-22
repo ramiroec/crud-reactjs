@@ -53,7 +53,8 @@ function ProjectList() {
                     })
                 });
             }
-
+          })
+    }
   
     return (
         <Layout>
